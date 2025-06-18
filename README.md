@@ -1,4 +1,4 @@
-# DigiCert Official Oids
+# DigiCert Official 
 
 v2.3 Updated **04 Feb 2025** by Chuck Blevins
 
